@@ -1,0 +1,18 @@
+.ul1{list-style: none;display: inline-flex;}
+
+	.yourlogo{color:grey;}
+
+	.home{}
+
+	.pricing{color: black}
+
+	.contact{}
+.topnav{display: inline;}
+.column{border:solid black;}
+.background{width:600px;
+	height:300px
+	;
+	;}
+	.firstcolumn{border:solid black;
+				background: lightgrey;
+				width:300px;}
