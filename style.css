@@ -1,13 +1,33 @@
-.ul1{list-style: none;display: inline-flex;}
 
-	.yourlogo{color:grey;}
+*{box-sizing: border-box;}
+.header{margin: 0 auto;
+		position: relative;
+		top:-19px;
+		left:5px;}
 
-	.home{}
 
-	.pricing{color: black}
+.ul{width:400px}
+.ul1{list-style: none;display: inline-flex;padding:0px;margin-top:;}
 
-	.contact{}
-.topnav{display: inline;}
+	.yourlogo{color:grey;margin-right:10px; font-size: 10pt;}
+
+	.home{color:grey;
+			position: relative;
+			left:20px;}
+
+	.pricing{color: black;margin-left: 20px;
+			  position: relative;
+			left:26px;}
+
+	.contact{color:grey;margin-left: 20px;
+			position:relative;
+			left:26px;}
+
+
+
+
+
+.topnav{display: inline;height: 20px;}
 .column{border:solid black;}
 .background{width:600px;
 	height:300px
@@ -16,3 +36,5 @@
 	.firstcolumn{border:solid black;
 				background: lightgrey;
 				width:300px;}
+
+				#imageandtext{}
